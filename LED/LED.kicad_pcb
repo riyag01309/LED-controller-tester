@@ -1633,7 +1633,7 @@
     (tedit 0) (tstamp 035ce54f-e354-4e4d-b299-9e61f1019833)
     (at 103.124 87.122 180)
     (attr board_only exclude_from_pos_files exclude_from_bom)
-    (fp_text reference "G***" (at 0 0) (layer "F.SilkS")
+    (fp_text reference "G***" (at 0 0) (layer "F.Fab")
       (effects (font (size 1.524 1.524) (thickness 0.3)))
       (tstamp 46737606-8b64-4916-9d28-2a6004118b88)
     )
